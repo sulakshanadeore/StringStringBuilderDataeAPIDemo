@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringStringBuilderDataeAPIDemo", "StringStringBuilderDataeAPIDemo\StringStringBuilderDataeAPIDemo.csproj", "{06E89C2F-64A6-4E86-AE5D-50E10A900411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E89C2F-64A6-4E86-AE5D-50E10A900411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E89C2F-64A6-4E86-AE5D-50E10A900411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E89C2F-64A6-4E86-AE5D-50E10A900411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E89C2F-64A6-4E86-AE5D-50E10A900411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A10026-968E-4A59-BE3D-BF2FBBD17F72}
+	EndGlobalSection
+EndGlobal
